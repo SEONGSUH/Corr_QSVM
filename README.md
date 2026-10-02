@@ -1,4 +1,4 @@
-## Enhancing, Not Removing, Feature Correlation for ZZFeatureMap-Based QSVM
+## Code for Exploiting Feature Correlation for ZZFeatureMap-Based Quantum Support Vector Machines
 
 ## Directory structure
 
