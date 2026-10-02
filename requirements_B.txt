@@ -1,0 +1,17 @@
+# Environment B: noisy-simulator QSVM (ibm_fez noise model)
+# (Windows 11, Python 3.13)
+torch==2.10.0
+torchvision==0.25.0
+numpy==2.4.3
+scikit-learn==1.8.0
+scipy==1.17.1
+pandas==2.3.3
+matplotlib==3.10.8
+seaborn==0.13.2
+openpyxl==3.1.5
+joblib==1.5.3
+tqdm==4.67.3
+pylatexenc==2.10
+qiskit==2.3.1
+qiskit-aer==0.17.2
+qiskit-ibm-runtime==0.45.1

@@ -1,0 +1,19 @@
+# Environment A: CNN training + noiseless-simulator QSVM
+# (Windows 11, Python 3.13, CUDA 13.0 builds of PyTorch)
+torch==2.9.1
+torchvision==0.24.1
+numpy==2.1.3
+scikit-learn==1.6.1
+scipy==1.15.3
+pandas==2.2.3
+matplotlib==3.10.0
+seaborn
+openpyxl
+joblib
+tqdm
+pylatexenc            # needed by qiskit circuit .draw('mpl')
+qiskit==1.4.6
+qiskit-aer==0.17.2
+qiskit-algorithms==0.4.0
+qiskit-machine-learning==0.8.4
+qiskit-ibm-runtime==0.45.1
